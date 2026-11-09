@@ -1,0 +1,1 @@
+{"OG_SECRET_KEY":{"defaultValue":"${{secret(32)}}","description":"Random secret for session signing and MFA data encryption. Keep it stable — changing it invalidates all user sessions.","isOptional":false}}
